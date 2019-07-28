@@ -1,0 +1,64 @@
+.container {
+  background: #2d343d;
+}
+
+.login {
+  margin: 20px auto;
+  width: 300px;
+  padding: 30px 25px;
+  background: green;
+  border: 2px solid black;
+}
+
+h1.title {
+  margin: -28px -25px 25px;
+  padding: 15px 25px;
+  line-height: 30px;
+  font-size: 25px;
+  font-weight: 300;
+  color: #ADADAD;
+  text-align: center;
+  background: #f7f7f7;
+ 
+}
+
+.abc {
+  width: 250px;
+  height: 50px;
+  margin-bottom: 25px;
+  padding-left: 10px;
+  font-size: 15px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.abc:focus {
+    border-color: #6e8095;
+    outline: none;
+  }
+.boton {
+  width: 100%;
+  height: 50px;
+  padding: 0;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  background: brown;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer; 
+  outline: 0;
+}
+
+.perdida
+{
+  text-align:center;
+  margin-bottom:0px;
+}
+
+.perdida a
+{
+  color: yellow;
+  text-decoration: none;
+  font-size: 13px;
+}
